@@ -23,7 +23,7 @@
 </div>
 
 <p></p>
-  <h1>Welcome! :wave:</h1>
+  <h1>Hello! :wave:</h1>
     <div>I am Paolo Maloles, a Full-Stack Web Developer and Software Engineer based in the Chicago, IL!</div>
     <div>I work primarily in Ruby, Javascript, Python and Kotlin and continue to learn others!</div>
   
