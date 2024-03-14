@@ -69,29 +69,20 @@ Languages, Frameworks, Libraries & Tools
   </div>
 </div>
 
+<p></p>
+<div align="center">
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+  </div>
 
-
-
-
-<table>
+<!--<table>
   <tr>
     <td width=35%>
 Languages, Frameworks, Libraries & Tools
 <div>
-<!--   <li>Javascript</li>
-  <li>Ruby</li>
-  <li>Python</li>
-  <li>Kotlin</li>
-  <li>CSS</li>
-  <li>HTML</li>
-  <li>React</li>
-  <li>Rails</li>
-  <li>Bootstrap</li>
-  <li>Tailwind</li>
-  <li>Postgres</li>
-  <li>Node</li>
-  <li>Git</li> -->
   <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -136,7 +127,7 @@ Languages, Frameworks, Libraries & Tools
   </div>
 </td>
 </tr>
-</table>
+</table> -->
 
 <!--
 **JPaoloMaloles/JPaoloMaloles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
