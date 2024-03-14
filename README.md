@@ -25,13 +25,15 @@
 <p></p>
   <h1>Welcome! :wave:</h1>
   <h5>
-    I'm Paolo Maloles, a full-stack web developer and software engineer based in the Chicago, IL
-    I ex
+    <div>I am Paolo Maloles, a full-stack web developer and software engineer based in the Chicago, IL !</div>
   </h5>
   
 ---
 
-Languages, Frameworks, Libraries & Tools:
+<table>
+  <tr>
+    <td width=50%>
+Languages, Frameworks, Libraries & Tools
 <div id="body">
   <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -53,9 +55,9 @@ Languages, Frameworks, Libraries & Tools:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
-
+      <p></p>
 <div>
-  <h3>Current Projects</h3>
+  Current Projects
   <div>
     <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
       TFTraitors
@@ -67,9 +69,17 @@ Languages, Frameworks, Libraries & Tools:
     </a>
   </div>
 </div>
-<p></p>
+</td>
+<td>
+  <div align="center">
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</td>
+</tr>
+</table>
 
 <!--
 **JPaoloMaloles/JPaoloMaloles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
