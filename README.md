@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <div>
+<!--   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -19,14 +19,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  </div>
+  </div> -->
 </div>
 
 <p></p>
   <h1>Welcome! :wave:</h1>
-  <h4>
-    <div>I am Paolo Maloles, a Full-Stack Web Developer and Software Engineer based in the Chicago, IL !</div>
-  </h4>
+    <div>I am Paolo Maloles, a Full-Stack Web Developer and Software Engineer based in the Chicago, IL!</div>
+    <div>I work primarily in Ruby, Javascript, Python and Kotlin and continue to learn others!</div>
   
 ---
 
@@ -55,8 +54,8 @@ Languages, Frameworks, Libraries & Tools
   </div>
 </div>
 <p></p>
+Working On...
 <div>
-  Currently in Development
   <div>
     <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
       TFTraitors
@@ -67,27 +66,37 @@ Languages, Frameworks, Libraries & Tools
       PokeGen
     </a>
   </div>
+</div>
+<p></p>
+<a href="https://github.com/JPaoloMaloles/Tftraitors-frontend"><img width=25% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-frontend&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/Tftraitors-backend"><img width=25% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-backend&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/Pokemon-app"><img width=25% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon-app&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/Pygame-Shooter"><img width=25% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pygame-Shooter&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
+<div>
+  <div>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
 </div>
 
-<p></p>
-<!-- <div align="right">
-  <p></p>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+<!--<div align="center">
+
+<a href="https://github.com/JPaoloMaloles/Tftraitors-frontend"><img width=254 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/JPaoloMaloles/Pokemon-app"><img width=254 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+<div align="right">
+
+  <a href="https://github.com/JPaoloMaloles/Pygame-Shooter"><img width=25% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pygame-Shooter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>-->
 
-</div> -->
-
-<table>
+<!--<table>
   <tr>
     <td width=35%>
-<!-- Languages, Frameworks, Libraries & Tools -->
 <h1>Projects</h1>
-<a href="https://github.com/JPaoloMaloles/Tftraitors_frontend"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/JPaoloMaloles/Pokemon_app"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</td>
+<a href="https://github.com/JPaoloMaloles/Tftraitors-frontend"><img width=100% height="auto" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/Pokemon-app"><img width=100% height="auto" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/JPaoloMaloles/Pygame-Shooter"><img width=100% height="auto" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pygame-Shooter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
 <td>
   <div align="center">
     
@@ -97,19 +106,4 @@ Languages, Frameworks, Libraries & Tools
   </div>
 </td>
 </tr>
-</table>
-
-<!--
-**JPaoloMaloles/JPaoloMaloles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>-->
