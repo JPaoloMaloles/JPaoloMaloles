@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<!--   <div>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -19,22 +19,79 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  </div> -->
+  </div>
 </div>
 
 <p></p>
   <h1>Welcome! :wave:</h1>
-  <h5>
-    <div>I am Paolo Maloles, a full-stack web developer and software engineer based in the Chicago, IL !</div>
-  </h5>
+  <h4>
+    <div>I am Paolo Maloles, a Full-Stack Web Developer and Software Engineer based in the Chicago, IL !</div>
+  </h4>
   
 ---
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZlOWhxMWZyN3l6ZHRiZWQ4ZWdzd3hwMzVha2p6Zmx3aHo5MWZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.gif" alt="side Image" align="right" width="500" height="auto" />
+
+Languages, Frameworks, Libraries & Tools
+<div>
+  <div id="languages">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+  <div id="frameworks">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+  </div>
+  <div id="libraries-tools">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  </div>
+</div>
+<p></p>
+<div>
+  Current Projects
+  <div>
+    <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
+      TFTraitors
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/JPaoloMaloles/Pokemon_app">
+      PokeGen
+    </a>
+  </div>
+</div>
+
+
+
+
+
+
 <table>
   <tr>
-    <td width=50%>
+    <td width=35%>
 Languages, Frameworks, Libraries & Tools
-<div id="body">
+<div>
+<!--   <li>Javascript</li>
+  <li>Ruby</li>
+  <li>Python</li>
+  <li>Kotlin</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  <li>React</li>
+  <li>Rails</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+  <li>Postgres</li>
+  <li>Node</li>
+  <li>Git</li> -->
   <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
