@@ -67,61 +67,26 @@ Languages, Frameworks, Libraries & Tools
       PokeGen
     </a>
   </div>
-  <div>
-    <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/JPaoloMaloles/Pokemon_app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </div>
+
 </div>
 
 <p></p>
-<div align="right">
+<!-- <div align="right">
   <p></p>
-  
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpaolomaloles&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
-<!--<table>
+<table>
   <tr>
     <td width=35%>
-Languages, Frameworks, Libraries & Tools
-<div>
-  <div id="languages">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-  <div id="frameworks">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  </div>
-  <div id="libraries-tools">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  </div>
-</div>
-      <p></p>
-<div>
-  Current Projects
-  <div>
-    <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
-      TFTraitors
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/JPaoloMaloles/Pokemon_app">
-      PokeGen
-    </a>
-  </div>
-</div>
+<!-- Languages, Frameworks, Libraries & Tools -->
+<h1>Current Projects</h1>
+<a href="https://github.com/JPaoloMaloles/Tftraitors_frontend"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/JPaoloMaloles/Pokemon_app"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </td>
 <td>
   <div align="center">
@@ -132,7 +97,7 @@ Languages, Frameworks, Libraries & Tools
   </div>
 </td>
 </tr>
-</table> -->
+</table>
 
 <!--
 **JPaoloMaloles/JPaoloMaloles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
