@@ -22,8 +22,6 @@
   </div>
 </div>
 
-
-
 <p></p>
   <h3>About Me</h3>
   <hl>
@@ -34,7 +32,7 @@ ___
 
 Languages, Frameworks, Libraries & Tools:
 <div id="body">
-  <div>
+  <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -54,6 +52,21 @@ Languages, Frameworks, Libraries & Tools:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
+<div>
+  <h3>Current Projects</h3>
+  <div>
+    <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
+      TFTraitors
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/JPaoloMaloles/Pokemon_app">
+      PokeGen
+    </a>
+  </div>
+</div>
+<p></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles)](https://github.com/anuraghazra/github-readme-stats)
 <!--
