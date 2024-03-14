@@ -56,7 +56,7 @@ Languages, Frameworks, Libraries & Tools
 </div>
 <p></p>
 <div>
-  Current Projects
+  Currently in Development
   <div>
     <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend">
       TFTraitors
@@ -84,7 +84,7 @@ Languages, Frameworks, Libraries & Tools
   <tr>
     <td width=35%>
 <!-- Languages, Frameworks, Libraries & Tools -->
-<h1>Current Projects</h1>
+<h1>Projects</h1>
 <a href="https://github.com/JPaoloMaloles/Tftraitors_frontend"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/JPaoloMaloles/Pokemon_app"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pokemon_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </td>
