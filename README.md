@@ -23,12 +23,13 @@
 </div>
 
 <p></p>
-  <h3>About Me</h3>
-  <hl>
-    Hi! I'm Paolo Maloles, a full-stack web developer and software engineer based in the Chicago, Il
-  </hl>
+  <h1>Welcome! :wave:</h1>
+  <h5>
+    I'm Paolo Maloles, a full-stack web developer and software engineer based in the Chicago, IL
+    I ex
+  </h5>
   
-___
+---
 
 Languages, Frameworks, Libraries & Tools:
 <div id="body">
@@ -68,7 +69,8 @@ Languages, Frameworks, Libraries & Tools:
 </div>
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaolomaloles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JPaoloMaloles/JPaoloMaloles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
