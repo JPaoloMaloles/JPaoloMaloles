@@ -98,8 +98,8 @@ Projects
 <table>
   <tr>
     <td width=35%>
-<a href="https://github.com/JPaoloMaloles/Tftraitors-frontend"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/PokemonGenerator"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=PokemonGenerator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/JPaoloMaloles/Pygame-Shooter"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pygame-Shooter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
+<a href="https://github.com/JPaoloMaloles/Tftraitors-frontend"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Tftraitors-frontend&theme=react&bg_color=1F222E&title_color=93E9BE&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a><a href="https://github.com/JPaoloMaloles/PokemonGenerator"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=PokemonGenerator&theme=react&bg_color=1F222E&title_color=93E9BE&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/JPaoloMaloles/Pygame-Shooter"><img width=100% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JPaoloMaloles&repo=Pygame-Shooter&theme=react&bg_color=1F222E&title_color=93E9BE&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
 <td>
   <div align="center">
 
