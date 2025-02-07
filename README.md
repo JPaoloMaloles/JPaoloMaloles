@@ -10,7 +10,7 @@
 <p></p>
   <h1>Hello! :wave:</h1>
     <div>I am Paolo Maloles, a Full-Stack Web Developer and Software Engineer based in the Chicago, IL!</div>
-    <div>I work primarily in Ruby, Javascript, Python and Kotlin and continue to learn more every day!</div>
+    <div>I work primarily in Ruby, Javascript, Python and Kotlin and continue to learn more technology every day!</div>
   
 ---
 
